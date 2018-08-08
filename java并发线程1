@@ -18,7 +18,7 @@
   2、在java中，每次程序运行至少启动2个线程。一个是main线程，一个是垃圾收集线程。
    *因为每当使用java命令执行一个类的时候，实际上都会启动一个ＪＶＭ，每一个ｊＶＭ实质就是在操作系统中启动了一个进程*。
    
-![线程状态转换](https://raw.githubusercontent.com/mayunhi/Java-/master/%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2.png)
+![线程状态转换](https://github.com/mayunhi/Java-/blob/master/%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2.png)
                                                               
                                                               线程状态转换图
                                                               
